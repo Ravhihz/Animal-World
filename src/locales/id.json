@@ -1,0 +1,135 @@
+{
+  "app": {
+    "name": "Animal World",
+    "tagline": "Belajar dan Bermain"
+  },
+  "home": {
+    "welcome": "Halo! Ayo Belajar!",
+    "stars": "Bintang",
+    "menu": {
+      "animals": "Kenal Hewan",
+      "matching": "Cocokkan",
+      "puzzle": "Puzzle",
+      "coloring": "Mewarnai",
+      "collection": "Koleksiku",
+      "settings": "Pengaturan"
+    }
+  },
+  "animals": {
+    "title": "Hewan",
+    "categories": {
+      "all": "Semua",
+      "land": "Darat",
+      "sea": "Laut",
+      "air": "Terbang"
+    },
+    "locked": "Kumpulkan {{cost}} bintang untuk membuka!"
+  },
+  "matching": {
+    "title": "Cocokkan!",
+    "instruction": "Cocokkan gambar dengan bayangannya!",
+    "levels": {
+      "easy": "Mudah",
+      "medium": "Sedang",
+      "hard": "Sulit"
+    },
+    "hint": "Petunjuk",
+    "complete": "Hebat! Kamu berhasil!"
+  },
+  "puzzle": {
+    "title": "Puzzle",
+    "instruction": "Susun potongan gambarnya!",
+    "hint": "Lihat Petunjuk",
+    "hintModal": "Gambar Utuh",
+    "levels": {
+      "easy": "4 Potongan",
+      "hard": "6 Potongan"
+    },
+    "complete": "Puzzle selesai! Luar biasa!"
+  },
+  "coloring": {
+    "title": "Mewarnai",
+    "instruction": "Pilih warna dan sentuh gambarnya!",
+    "undo": "Batalkan",
+    "reset": "Ulang",
+    "save": "Simpan",
+    "saveSuccess": "Gambar tersimpan di galeri!",
+    "saveError": "Gagal menyimpan gambar.",
+    "complete": "Wah, indah sekali!"
+  },
+  "collection": {
+    "title": "Koleksiku",
+    "animals": "Hewan Kamu",
+    "of": "dari",
+    "trophies": "Trofi Kamu",
+    "locked": "Terkunci",
+    "new": "Baru!"
+  },
+  "settings": {
+    "title": "Pengaturan",
+    "language": "Bahasa",
+    "languageId": "Indonesia",
+    "languageEn": "English",
+    "musicVolume": "Volume Musik",
+    "sfxVolume": "Volume Efek Suara",
+    "stats": "Statistik",
+    "totalStars": "Total Bintang",
+    "totalAnimals": "Total Hewan",
+    "totalActivities": "Total Aktivitas",
+    "resetProgress": "Reset Progress",
+    "resetConfirm": "Yakin ingin reset semua progress?",
+    "resetConfirm2": "Ini tidak bisa dibatalkan!",
+    "resetYes": "Ya, Reset",
+    "resetNo": "Batal",
+    "version": "Versi"
+  },
+  "parentalGate": {
+    "title": "Untuk Orang Tua",
+    "instruction": "Jawab soal ini untuk masuk:",
+    "placeholder": "Jawaban",
+    "submit": "Masuk",
+    "wrong": "Jawaban salah, coba lagi!",
+    "correct": "Benar! Selamat datang."
+  },
+  "reward": {
+    "stars": "Bintang",
+    "continue": "Lanjut",
+    "newAnimal": "Hewan baru terbuka!",
+    "newBadge": "Trofi baru!"
+  },
+  "common": {
+    "back": "Kembali",
+    "play": "Main",
+    "start": "Mulai",
+    "next": "Lanjut",
+    "retry": "Coba Lagi",
+    "close": "Tutup",
+    "confirm": "Ya",
+    "cancel": "Batal",
+    "loading": "Memuat..."
+  },
+  "animals_data": {
+    "lion": { "name": "Singa", "narration": "Ini adalah Singa" },
+    "elephant": { "name": "Gajah", "narration": "Ini adalah Gajah" },
+    "tiger": { "name": "Harimau", "narration": "Ini adalah Harimau" },
+    "giraffe": { "name": "Jerapah", "narration": "Ini adalah Jerapah" },
+    "crocodile": { "name": "Buaya", "narration": "Ini adalah Buaya" },
+    "horse": { "name": "Kuda", "narration": "Ini adalah Kuda" },
+    "cow": { "name": "Sapi", "narration": "Ini adalah Sapi" },
+    "goat": { "name": "Kambing", "narration": "Ini adalah Kambing" },
+    "rabbit": { "name": "Kelinci", "narration": "Ini adalah Kelinci" },
+    "monkey": { "name": "Kera", "narration": "Ini adalah Kera" },
+    "fish": { "name": "Ikan", "narration": "Ini adalah Ikan" },
+    "dolphin": { "name": "Lumba-lumba", "narration": "Ini adalah Lumba-lumba" },
+    "whale": { "name": "Paus", "narration": "Ini adalah Paus" },
+    "octopus": { "name": "Gurita", "narration": "Ini adalah Gurita" },
+    "crab": { "name": "Kepiting", "narration": "Ini adalah Kepiting" },
+    "sea_turtle": { "name": "Penyu", "narration": "Ini adalah Penyu" },
+    "shark": { "name": "Hiu", "narration": "Ini adalah Hiu" },
+    "starfish": { "name": "Bintang Laut", "narration": "Ini adalah Bintang Laut" },
+    "eagle": { "name": "Elang", "narration": "Ini adalah Elang" },
+    "parrot": { "name": "Burung Beo", "narration": "Ini adalah Burung Beo" },
+    "butterfly": { "name": "Kupu-kupu", "narration": "Ini adalah Kupu-kupu" },
+    "bee": { "name": "Lebah", "narration": "Ini adalah Lebah" }
+  }
+}

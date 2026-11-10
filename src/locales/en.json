@@ -1,0 +1,135 @@
+{
+  "app": {
+    "name": "Animal World",
+    "tagline": "Learn and Play"
+  },
+  "home": {
+    "welcome": "Hello! Let's Learn!",
+    "stars": "Stars",
+    "menu": {
+      "animals": "Meet Animals",
+      "matching": "Matching",
+      "puzzle": "Puzzle",
+      "coloring": "Coloring",
+      "collection": "My Collection",
+      "settings": "Settings"
+    }
+  },
+  "animals": {
+    "title": "Animals",
+    "categories": {
+      "all": "All",
+      "land": "Land",
+      "sea": "Sea",
+      "air": "Flying"
+    },
+    "locked": "Collect {{cost}} stars to unlock!"
+  },
+  "matching": {
+    "title": "Match It!",
+    "instruction": "Match the animal with its shadow!",
+    "levels": {
+      "easy": "Easy",
+      "medium": "Medium",
+      "hard": "Hard"
+    },
+    "hint": "Hint",
+    "complete": "Amazing! You did it!"
+  },
+  "puzzle": {
+    "title": "Puzzle",
+    "instruction": "Put the pieces together!",
+    "hint": "Show Hint",
+    "hintModal": "Full Picture",
+    "levels": {
+      "easy": "4 Pieces",
+      "hard": "6 Pieces"
+    },
+    "complete": "Puzzle complete! Wonderful!"
+  },
+  "coloring": {
+    "title": "Coloring",
+    "instruction": "Pick a color and tap the picture!",
+    "undo": "Undo",
+    "reset": "Reset",
+    "save": "Save",
+    "saveSuccess": "Picture saved to gallery!",
+    "saveError": "Failed to save picture.",
+    "complete": "Wow, so beautiful!"
+  },
+  "collection": {
+    "title": "My Collection",
+    "animals": "Your Animals",
+    "of": "of",
+    "trophies": "Your Trophies",
+    "locked": "Locked",
+    "new": "New!"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "languageId": "Indonesian",
+    "languageEn": "English",
+    "musicVolume": "Music Volume",
+    "sfxVolume": "Sound Effects Volume",
+    "stats": "Statistics",
+    "totalStars": "Total Stars",
+    "totalAnimals": "Total Animals",
+    "totalActivities": "Total Activities",
+    "resetProgress": "Reset Progress",
+    "resetConfirm": "Are you sure you want to reset all progress?",
+    "resetConfirm2": "This cannot be undone!",
+    "resetYes": "Yes, Reset",
+    "resetNo": "Cancel",
+    "version": "Version"
+  },
+  "parentalGate": {
+    "title": "For Parents",
+    "instruction": "Answer this to continue:",
+    "placeholder": "Answer",
+    "submit": "Enter",
+    "wrong": "Wrong answer, try again!",
+    "correct": "Correct! Welcome."
+  },
+  "reward": {
+    "stars": "Stars",
+    "continue": "Continue",
+    "newAnimal": "New animal unlocked!",
+    "newBadge": "New trophy!"
+  },
+  "common": {
+    "back": "Back",
+    "play": "Play",
+    "start": "Start",
+    "next": "Next",
+    "retry": "Try Again",
+    "close": "Close",
+    "confirm": "Yes",
+    "cancel": "Cancel",
+    "loading": "Loading..."
+  },
+  "animals_data": {
+    "lion": { "name": "Lion", "narration": "This is a Lion" },
+    "elephant": { "name": "Elephant", "narration": "This is an Elephant" },
+    "tiger": { "name": "Tiger", "narration": "This is a Tiger" },
+    "giraffe": { "name": "Giraffe", "narration": "This is a Giraffe" },
+    "crocodile": { "name": "Crocodile", "narration": "This is a Crocodile" },
+    "horse": { "name": "Horse", "narration": "This is a Horse" },
+    "cow": { "name": "Cow", "narration": "This is a Cow" },
+    "goat": { "name": "Goat", "narration": "This is a Goat" },
+    "rabbit": { "name": "Rabbit", "narration": "This is a Rabbit" },
+    "monkey": { "name": "Monkey", "narration": "This is a Monkey" },
+    "fish": { "name": "Fish", "narration": "This is a Fish" },
+    "dolphin": { "name": "Dolphin", "narration": "This is a Dolphin" },
+    "whale": { "name": "Whale", "narration": "This is a Whale" },
+    "octopus": { "name": "Octopus", "narration": "This is an Octopus" },
+    "crab": { "name": "Crab", "narration": "This is a Crab" },
+    "sea_turtle": { "name": "Sea Turtle", "narration": "This is a Sea Turtle" },
+    "shark": { "name": "Shark", "narration": "This is a Shark" },
+    "starfish": { "name": "Starfish", "narration": "This is a Starfish" },
+    "eagle": { "name": "Eagle", "narration": "This is an Eagle" },
+    "parrot": { "name": "Parrot", "narration": "This is a Parrot" },
+    "butterfly": { "name": "Butterfly", "narration": "This is a Butterfly" },
+    "bee": { "name": "Bee", "narration": "This is a Bee" }
+  }
+}
